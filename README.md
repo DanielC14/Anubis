@@ -23,6 +23,10 @@ Check the User Manual (currently in Portuguese) to learn more about its function
 
 [Click here to open](https://cdn.rawgit.com/DanielC14/Anubis/296ae326/User%20Manual/Anubis-UserManual.pdf)
 
+## Pitch
+Along with the software it was asked to also do a pitch.
+[Click here to watch](https://cdn.rawgit.com/DanielC14/Anubis/071762d5/Pitch/ANUBIS-Pitch.mp4)
+
 ## Screenshot
 ![Homepage](Screenshots/homepage.png?raw=true)
 
