@@ -21,7 +21,7 @@ In this software the security of ESMAD can:
 ## User Manual
 Check the User Manual (currently in Portuguese) to learn more about its functionalities.
 
-[Click here to open](https://github.com/DanielC14/Anubis/blob/master/User%20Manual/Anubis-UserManual.pdf)
+[Click here to open](https://cdn.rawgit.com/DanielC14/Anubis/296ae326/User%20Manual/Anubis-UserManual.pdf)
 
 ## Screenshot
 ![Homepage](Screenshots/homepage.png?raw=true)
