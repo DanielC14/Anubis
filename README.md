@@ -1,4 +1,4 @@
-[Anubis](Screenshots/anubisLogo.png?raw=true)
+![Anubis](Screenshots/anubisLogo.png?raw=true)
 
 Lost and Found Management Software developed for the Project I subject in the first year of the Technologies and Information Systems for the Web course, licensed at ESMAD (Superior School of Media Arts and Design).
 
