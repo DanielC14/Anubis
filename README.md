@@ -1,4 +1,4 @@
-# Anubis
+[Anubis](Screenshots/anubisLogo.png?raw=true)
 
 Lost and Found Management Software developed for the Project I subject in the first year of the Technologies and Information Systems for the Web course, licensed at ESMAD (Superior School of Media Arts and Design).
 
@@ -21,8 +21,8 @@ In this software the security of ESMAD can:
 ## User Manual
 Check the User Manual (currently in Portuguese) to learn more about its functionalities.
 
-[Click here to open]()
+[Click here to open](https://github.com/DanielC14/Anubis/blob/master/User%20Manual/Anubis-UserManual.pdf)
 
 ## Screenshot
-![Homepage](Screenshots/homepage.png?raw=true&s=100)
+![Homepage](Screenshots/homepage.png?raw=true)
 
