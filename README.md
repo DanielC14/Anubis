@@ -23,5 +23,6 @@ Check the User Manual (currently in Portuguese) to learn more about its function
 
 [Click here to open]()
 
+## Screenshot
 ![Homepage](Screenshots/homepage.png?raw=true&s=100)
 
