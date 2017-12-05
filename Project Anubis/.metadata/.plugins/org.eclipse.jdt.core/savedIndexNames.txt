@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+D:\Daniel\Documents\Portefolio\1ANO\Projeto I\Projeto Anubis\.metadata\.plugins\org.eclipse.jdt.core
+3384513373.index
+113914208.index
+3951387502.index
+3029297292.index

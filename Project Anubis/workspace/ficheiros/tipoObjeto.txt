@@ -1,0 +1,5 @@
+1#Vestuário#1
+2#Material Escolar#2
+3#Guarda-chuva#1
+4#Pen#2
+5#Chaves#3
